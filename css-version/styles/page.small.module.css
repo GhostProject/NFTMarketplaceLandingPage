@@ -1,0 +1,9 @@
+/* The design following mobile first design so latter in medium module 
+ it will use small and large module will use medium size for media query  */
+.main {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
